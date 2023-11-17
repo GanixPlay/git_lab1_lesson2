@@ -1,0 +1,23 @@
+Index: human/human.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>     ===\r\n  == = = ==\r\n   =  =  =\r\n    = = = \r\n == ===== == \r\n=  =     =  =\r\n=  =     =  =\r\n == =   = ==\r\n    = = =\r\n    = = =\r\n   === ===\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/human/human.txt b/human/human.txt
+--- a/human/human.txt	(revision df455a79680d70a43d65351f338e25d0ef26c169)
++++ b/human/human.txt	(date 1700239399089)
+@@ -3,9 +3,9 @@
+    =  =  =
+     = = = 
+  == ===== == 
+-=  =     =  =
+-=  =     =  =
+- == =   = ==
++=  =  0  =  =
++=  =  0  =  =
++ == = 0 = ==
+     = = =
+     = = =
+    === ===
